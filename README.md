@@ -41,6 +41,10 @@ const client = new AoiClient({
     securityKey: "a-32-characters-long-string-here"
     }
 });
+
+new AIManager(client, {
+    debug: true,
+})
 ```
 <details>
   <summary>Show Function's List</summary>
