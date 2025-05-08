@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <a>
     <img width="300" src="https://www.fonstola.ru/images/202405/www.fonstola.ru.1715812562.2480.jpg">
   </a>
