@@ -1,3 +1,7 @@
 const { AIManager } = require('./Classes/AIManager');
+const { Functions } = require('./Classes/Functions');
 
-module.exports = { AIManager }
+module.exports = { 
+  AIManager, 
+  Functions 
+}
