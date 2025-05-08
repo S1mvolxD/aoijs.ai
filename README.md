@@ -18,6 +18,10 @@
 ---
 
 ### 📒 Setup
+```bash
+npm install https://github.com/S1mvolxD/aoijs.ai.git
+```
+
 - To get started with aoijs.ai, follow these steps:
 - index.js
 ```js
