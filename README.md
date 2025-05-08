@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img width="300" src="https://www.fonstola.ru/images/202405/www.fonstola.ru.1715812562.2480.jpg">
+    <img width="300" src="https://cdn.discordapp.com/attachments/1143145944767021096/1369982095065092136/photo_2025-05-08_17-16-43.jpg?ex=681dd6c0&is=681c8540&hm=de4dffccc7d8ec556f0e821b8c42de528b977d5e98573a9a64403367f5ea16ab&">
   </a>
 </p>
 
