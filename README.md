@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6ce2a5a0-dbd5-4254-a5a1-7b0800cfeac8)<p align="center">
+<p align="center">
   <a>
     <img width="300" src="https://cdn.discordapp.com/attachments/1143145944767021096/1369982783463886868/Picsart_25-05-08_17-20-41-395.png?ex=681dd764&is=681c85e4&hm=2dc992964a864edbd63bc352ced74131a6689fc9493f2459970c0b5a0317f8f1&">
   </a>
