@@ -37,7 +37,7 @@ module.exports = {
         };
         
     } catch (err) {
-        console.error("Ошибка в $flux:", err);
+        console.error("Error in $flux:", err);
         return d.aoiError.fnError(d, "custom", {}, `API error: ${err.message}`);
     }
   }
