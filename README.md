@@ -56,4 +56,11 @@ new AIManager(client, {
 | $fastTTV                | [text;style]                    | [true, false]                    | Fast Text-To-Video with styles.        |
 | $flux                   | [text;ratio]                    | [true, false]                    | Flux.1 models from blackforextlabs.ai. |
 
+  <summary>Show Setting's List</summary>
+
+| Name                    | Value                                                                              | Approximately                                    |
+|-------------------------|------------------------------------------------------------------------------------|--------------------------------------------------|
+| $fastTTV                | [anime, realistic.]                                                                | $fastTTV[A cute kitten with cute girl;realistic] |
+| $flux                   | [square, portrait, landscape, 1024x1024, 1024x712, 712x1024, 1024x512, 512x1024.]  | $flux[A cute kitten;square]                      |
+
 </details>
