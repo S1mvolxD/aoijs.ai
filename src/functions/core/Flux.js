@@ -5,6 +5,7 @@ module.exports = {
     const data = d.util.aoiFunc(d);
     const [text, ratio = 'square'] = data.inside.splits;
 
+    if (data.err) return d.error(data.err);
     if (!text) return d.aoiError.fnError(d, "custom", {}, "You didn't enter the text");
 
     try {
@@ -37,7 +38,7 @@ module.exports = {
         };
         
     } catch (err) {
-        console.error("Error in $flux:", err);
+        console.error("Ошибка в $flux:", err);
         return d.aoiError.fnError(d, "custom", {}, `API error: ${err.message}`);
     }
   }

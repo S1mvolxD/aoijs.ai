@@ -5,6 +5,7 @@ module.exports = {
         const data = d.util.aoiFunc(d);
         const [text] = data.inside.splits;
 
+        if (data.err) return d.error(data.err);
         if (!text) return d.util.aoiError.fnError(d, "custom", {}, "You didn't enter the text");
 
         try {
