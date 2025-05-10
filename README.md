@@ -2,6 +2,9 @@
   <a>
     <img width="300" src="https://cdn.discordapp.com/attachments/1143145944767021096/1369982783463886868/Picsart_25-05-08_17-20-41-395.png?ex=681dd764&is=681c85e4&hm=2dc992964a864edbd63bc352ced74131a6689fc9493f2459970c0b5a0317f8f1&">
   </a>
+
+  - **[Aoi.js Support Server](https://aoi.js.org/invite)**
+  - **[Aoijs.ai Support Server](https://discord.gg/KrH5xHns5v)**
 </p>
 
 # ✨️ Information
